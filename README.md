@@ -1,4 +1,4 @@
-p>Welcome to my page! </br> I'm Kian, currently studying at Stellenbosch University in <img src="https://cdn-icons-png.flaticon.com/128/197/197562.png" width="13"/> <b>Stellenbosch, South Africa</b>.</p>
+<p>Welcome to my page! </br> I'm Kian, currently studying at Stellenbosch University in <img src="https://cdn-icons-png.flaticon.com/128/197/197562.png" width="13"/> <b>Stellenbosch, South Africa</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
