@@ -1,4 +1,3 @@
-<p>Welcome to my page! :wave: </br> I'm Kian, currently studying at Stellenbosch University in <img src="https://cdn-icons-png.flaticon.com/128/197/197562.png" width="13"/> <b>Stellenbosch, South Africa</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,7 +20,7 @@
 
 🔹 **Aspiring Software Developer | Computer Science Student at Stellenbosch University**
 
-Hello! I'm a passionate student at Stellenbosch University, deeply engaged in Computer Science. My journey in software development is driven by a love for problem-solving and the transformative power of technology.
+Welcome to my page! :wave:. I'm Kian, currently studying at Stellenbosch University in <img src="https://cdn-icons-png.flaticon.com/128/197/197562.png" width="13"/> <b>Stellenbosch, South Africa</b> deeply engaged in Computer Science. My journey in software development is driven by a love for problem-solving and the transformative power of technology.
 
 🌟 **What Drives Me:**
 
