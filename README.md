@@ -17,3 +17,26 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
+
+
+🔹 Aspiring Software Developer | Computer Science Student at Stellenbosch University
+Hello! I'm a passionate student at Stellenbosch University, deeply engaged in Computer Science. My journey in software development is driven by a love for problem-solving and the transformative power of technology.
+
+🌟 What Drives Me:
+I am captivated by the way software can revolutionize industries and improve lives. A particular project that sparked my interest was [Briefly describe a significant project], which challenged me to [describe the challenge and your learning].
+
+📚 Academic Background:
+Immersed in a comprehensive curriculum at Stellenbosch University, I've honed my skills in programming fundamentals and advanced software engineering concepts.
+
+💻 Technical Skills:
+Proficient in Java, Python, C, JavaScript
+Experienced with Git, React, Node.js
+Strong understanding of Object-Oriented Programming, Data Structures, Algorithms
+
+🌱 Learning and Growth:
+Constantly seeking learning opportunities, I engage in coding competitions and tech meetups. My GitHub showcases some of these learning experiences and personal projects.
+
+🤝 Future Aspirations:
+As I near my degree completion, I am eager to delve into backend development roles. I aim to contribute to projects that are innovative and impactful.
+
+I welcome connections to discuss technology, collaborate on projects, or simply exchange ideas!
