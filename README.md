@@ -24,7 +24,7 @@ Welcome to my page! :wave:. I'm Kian, currently studying at Stellenbosch Univers
 
 🌟 **What Drives Me:**
 
-I am captivated by the way software can revolutionize industries and improve lives. A particular project that sparked my interest was [Briefly describe a significant project], which challenged me to [describe the challenge and your learning].
+I am captivated by the way software can revolutionize industries and improve lives. I hope to also create software that can make a difference to the world we live in.
 
 📚 **Academic Background:**
 
