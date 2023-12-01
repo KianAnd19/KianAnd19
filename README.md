@@ -37,7 +37,7 @@ Immersed in a comprehensive curriculum at Stellenbosch University, I've honed my
 
 🌱 **Learning and Growth:**
 
-Constantly seeking learning opportunities, I engage in coding competitions and tech meetups. My GitHub showcases some of these learning experiences and personal projects.
+Constantly seeking learning opportunities. My GitHub showcases some of these learning experiences and personal projects.
 
 🤝 **Future Aspirations:**
 
