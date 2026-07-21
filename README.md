@@ -9,6 +9,6 @@
 
 Hi, I'm Kian 🫡
 
-Full-stack engineer at MiraNext. Doing my master's in Computer Science at Stellenbosch University 🇿🇦, specifically in the applications of deep learning to medical AI.
+Full-stack engineer. Doing my master's in Computer Science at Stellenbosch University 🇿🇦, specifically in the applications of deep learning to medical AI.
 
 Check out my pinned repos below, my [Google Scholar](https://scholar.google.com/citations?user=jNDSQQUAAAAJ&hl=en), or reach out if you want to chat.
